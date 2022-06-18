@@ -1,0 +1,36 @@
+id: I4044F297
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T22:25:23.340784'
+last_modified: '2022-06-18T22:25:23.340797'
+parser: null
+source_metadata:
+  title: Bodhicaryāvatāra of Śāntideva (Old Gong dkar block print), colophon excerpt
+  author: translation (Tibetan canonical)
+  description: 'Digital version 1.0 {Tibetan}; master xml (completed: 2017-10-18);
+    revision in process, thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Excerpt/Colophon'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:Mathias Fermer (mf)
+  - Editorial process:-
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:Mathias Fermer (mf)
+  text_witnesses: https://sakyaresearch.org/sources/1471
+  bases:
+    32ee:
+      title: Bodhicaryāvatāra of Śāntideva (Old Gong dkar block print), colophon excerpt
+      order: 1
+      base_file: 32ee.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
